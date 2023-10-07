@@ -94,9 +94,10 @@ void PrintArray(string[] array)
     Console.Write("] ");
 }
 
-
+``````
 **Результат вывода в терминал:**
 
+``````
 Введите команду: 2
 [ “1234”, “1567”, “-2”, “computer science”, ] → [ “-2”, ] 
 
