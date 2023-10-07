@@ -26,7 +26,8 @@
   2.  Пишим код программы на языке C# в файле- **Program.cs** 
        
         **Код программы:** 
-`string[] array = new string[] {};
+``````
+string[] array = new string[] {};
 
 string fromUser = ReadInput("Введите команду: ");
 switch (fromUser)
@@ -103,6 +104,6 @@ void PrintArray(string[] array)
 Команды:
 1 – использовать массив: [“Hello”, “2”, “world”, “:-)”]
 2 – использовать массив: [“1234”, “1567”, “-2”, “computer science”]
-3 – использовать массив: [“Russia”, “Denmark”, “Kazan”]``
-
+3 – использовать массив: [“Russia”, “Denmark”, “Kazan”]
+``````
 
