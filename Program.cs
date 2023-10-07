@@ -45,7 +45,7 @@ PrintArray(array);
 Console.Write("→ ");
 PrintArray(newArray);
 
-void Commands()
+
 {
     Console.WriteLine();
     Console.WriteLine("Команды:");
